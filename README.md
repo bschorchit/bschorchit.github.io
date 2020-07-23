@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# bschorchit.github.io
-=======
 # MetaMask Test Dapp
 
 This is a simple test dapp for use in MetaMask e2e tests and manual QA.
@@ -36,7 +33,3 @@ This appears on the page as `Approve Tokens Without Gas`. In reality, the value 
 ```html
 Approve Tokens                Without Gas
 ```
->>>>>>> 08a0884de1dc2363218ac5f55acf0dec9d78b292
-# bschorchi.github.io
-# bschorchit.github.io
-# bschorchit.github.io
